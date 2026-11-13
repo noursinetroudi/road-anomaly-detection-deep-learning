@@ -1,0 +1,11 @@
+torch
+torchvision
+segmentation-models-pytorch>=0.4
+timm
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+pillow
+jupyter
